@@ -22,6 +22,7 @@ public class conexion {
         }
     }
     public Connection getConnection() {
-        return con;
+        return con; 
+        
     }
 }
